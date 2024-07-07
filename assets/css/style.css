@@ -689,8 +689,8 @@ margin-bottom:12px;
 	height: auto;
 	min-height: Auto;
 	padding-top: 0px;
-	/*background: rgb(3, 63, 112);*/
-	background: #E2E2E2;
+	background: rgb(226, 226, 226);
+	/*background: #E2E2E2;*/
 	background-size: cover;
 	text-align: left;
 }
